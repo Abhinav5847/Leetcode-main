@@ -4,11 +4,28 @@ class Solution(object):
         :type word: str
         :rtype: bool
         """
+        # if len(word) < 3:
+        #     return False
+        # vw = set("aeiouAEIOU")
+        # hasvw = False
+        # hasc = False 
+
+        # for i in word:
+        #     if not i.isalnum():
+        #         return False
+        #     if i.isalpha():
+        #         if i in vw:
+        #             hasvw = True
+        #         else:
+        #             hasc = True 
+
+        # return hasvw and hasc 
         if len(word) < 3:
-            return False
+            return False 
+
         vw = set("aeiouAEIOU")
         hasvw = False
-        hasc = False 
+        hascn = False
 
         for i in word:
             if not i.isalnum():
@@ -17,8 +34,8 @@ class Solution(object):
                 if i in vw:
                     hasvw = True
                 else:
-                    hasc = True 
+                    hascn = True 
 
-        return hasvw and hasc                    
+        return hasvw and hascn                                           
 
         
