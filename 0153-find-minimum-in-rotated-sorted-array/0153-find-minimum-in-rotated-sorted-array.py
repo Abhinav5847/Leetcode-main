@@ -4,5 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        return min(nums)
+        # return min(nums)
+        res = nums[0]
+        for i in nums:
+            if i < res:
+                res = i
+        return res        
         
