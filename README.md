@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhinav5847/Leetcode-main/tree/master/0069-sqrtx) |
+| [2235-add-two-integers](https://github.com/Abhinav5847/Leetcode-main/tree/master/2235-add-two-integers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhinav5847/Leetcode-main/tree/master/3783-mirror-distance-of-an-integer) |
 ## Database
 |  |
