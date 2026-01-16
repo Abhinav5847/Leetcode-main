@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhinav5847/Leetcode-main/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abhinav5847/Leetcode-main/tree/master/0169-majority-element) |
+| [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Abhinav5847/Leetcode-main/tree/master/0165-compare-version-numbers) |
 | [0389-find-the-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/0389-find-the-difference) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/3136-valid-word) |
