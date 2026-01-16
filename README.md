@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhinav5847/Leetcode-main/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abhinav5847/Leetcode-main/tree/master/0169-majority-element) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinav5847/Leetcode-main/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
