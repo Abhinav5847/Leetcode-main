@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhinav5847/Leetcode-main/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abhinav5847/Leetcode-main/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
@@ -21,18 +22,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhinav5847/Leetcode-main/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhinav5847/Leetcode-main/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhinav5847/Leetcode-main/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Abhinav5847/Leetcode-main/tree/master/0165-compare-version-numbers) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhinav5847/Leetcode-main/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhinav5847/Leetcode-main/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/0389-find-the-difference) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1451-rearrange-words-in-a-sentence) |
 ## String
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinav5847/Leetcode-main/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
