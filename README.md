@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhinav5847/Leetcode-main/tree/master/0069-sqrtx) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhinav5847/Leetcode-main/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Abhinav5847/Leetcode-main/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Abhinav5847/Leetcode-main/tree/master/2427-number-of-common-factors) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav5847/Leetcode-main/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhinav5847/Leetcode-main/tree/master/3783-mirror-distance-of-an-integer) |
 ## Database
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhinav5847/Leetcode-main/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhinav5847/Leetcode-main/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
