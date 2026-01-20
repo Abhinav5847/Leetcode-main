@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhinav5847/Leetcode-main/tree/master/0069-sqrtx) |
+| [1492-the-kth-factor-of-n](https://github.com/Abhinav5847/Leetcode-main/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhinav5847/Leetcode-main/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Abhinav5847/Leetcode-main/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Abhinav5847/Leetcode-main/tree/master/2427-number-of-common-factors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Abhinav5847/Leetcode-main/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/Abhinav5847/Leetcode-main/tree/master/2427-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
