@@ -6,6 +6,11 @@ class Solution(object):
         :rtype: int
         """
 
-        return a + b
+        li = []
+
+        li.append(a)
+        li.append(b)
+
+        return sum(li)    
 
         
