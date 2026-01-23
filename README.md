@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Abhinav5847/Leetcode-main/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav5847/Leetcode-main/tree/master/0905-sort-array-by-parity) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/3136-valid-word) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Enumeration
 |  |
 | ------- |
