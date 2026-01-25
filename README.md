@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Abhinav5847/Leetcode-main/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0977-squares-of-a-sorted-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
