@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhinav5847/Leetcode-main/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/0389-find-the-difference) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/3110-score-of-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhinav5847/Leetcode-main/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/0389-find-the-difference) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
