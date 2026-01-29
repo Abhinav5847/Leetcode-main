@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhinav5847/Leetcode-main/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0977-squares-of-a-sorted-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhinav5847/Leetcode-main/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/0389-find-the-difference) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
