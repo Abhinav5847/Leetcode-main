@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhinav5847/Leetcode-main/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhinav5847/Leetcode-main/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Abhinav5847/Leetcode-main/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Abhinav5847/Leetcode-main/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
