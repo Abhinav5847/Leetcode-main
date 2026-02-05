@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Abhinav5847/Leetcode-main/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/Abhinav5847/Leetcode-main/tree/master/3731-find-missing-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Abhinav5847/Leetcode-main/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Abhinav5847/Leetcode-main/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhinav5847/Leetcode-main/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Abhinav5847/Leetcode-main/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav5847/Leetcode-main/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
