@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinav5847/Leetcode-main/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/0389-find-the-difference) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinav5847/Leetcode-main/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Abhinav5847/Leetcode-main/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abhinav5847/Leetcode-main/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
