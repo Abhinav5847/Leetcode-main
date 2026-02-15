@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Abhinav5847/Leetcode-main/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Abhinav5847/Leetcode-main/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Abhinav5847/Leetcode-main/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Abhinav5847/Leetcode-main/tree/master/0412-fizz-buzz) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhinav5847/Leetcode-main/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abhinav5847/Leetcode-main/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Abhinav5847/Leetcode-main/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Abhinav5847/Leetcode-main/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhinav5847/Leetcode-main/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhinav5847/Leetcode-main/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Abhinav5847/Leetcode-main/tree/master/1492-the-kth-factor-of-n) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Abhinav5847/Leetcode-main/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhinav5847/Leetcode-main/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
