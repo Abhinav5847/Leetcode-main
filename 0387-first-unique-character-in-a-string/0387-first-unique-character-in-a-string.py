@@ -1,0 +1,28 @@
+class Solution(object):
+    def firstUniqChar(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        c = {}
+
+        for i in s:
+            if i in c:
+                c[i] +=1
+            else:
+                c[i] = 1
+
+        for i in range(len(s)):
+            if c[s[i]] == 1:
+                return i
+
+        return -1                    
+        # r = ""
+        # for i in s:
+        #     if s.count(i) == 1:
+        #         return s.index(i)
+
+        # return -1        
+                
+
+    
