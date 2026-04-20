@@ -5,23 +5,23 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        # st_one = set(nums1)
-        # st_two = set(nums2)
+        st_one = set(nums1)
+        st_two = set(nums2)
 
-        # res = st_one.intersection(st_two)
+        res = st_one.intersection(st_two)
 
-        # fin = list(res) 
-        # return fin 
+        fin = list(res) 
+        return fin 
         
-        res = []
-        for i in nums1:
-            for j in nums2:
-                if i == j:
-                    res.append(i)
-                    res.append(j)
+        # res = []
+        # for i in nums1:
+        #     for j in nums2:
+        #         if i == j:
+        #             res.append(i)
+        #             res.append(j)
 
-        res = set(res)
-        return list(res)          
+        # res = set(res)
+        # return list(res)          
 
 
         
