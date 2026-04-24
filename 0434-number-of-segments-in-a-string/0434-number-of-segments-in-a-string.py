@@ -6,7 +6,10 @@ class Solution(object):
         """
 
         res = s.split()
-        
+
         return len(res)
+        # res = s.split()
+        
+        # return len(res)
 
         
