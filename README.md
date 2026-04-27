@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhinav5847/Leetcode-main/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Abhinav5847/Leetcode-main/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Abhinav5847/Leetcode-main/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Abhinav5847/Leetcode-main/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav5847/Leetcode-main/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0912-sort-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhinav5847/Leetcode-main/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Abhinav5847/Leetcode-main/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/Abhinav5847/Leetcode-main/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav5847/Leetcode-main/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0977-squares-of-a-sorted-array) |
