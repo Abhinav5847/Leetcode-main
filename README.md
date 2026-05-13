@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav5847/Leetcode-main/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/Abhinav5847/Leetcode-main/tree/master/2540-minimum-common-value) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinav5847/Leetcode-main/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhinav5847/Leetcode-main/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
