@@ -9,7 +9,9 @@ class Solution(object):
             if i == "0":
                 num = num[:-1]
             else:
-                return num            
+                break
+
+        return num                    
 
 
 
