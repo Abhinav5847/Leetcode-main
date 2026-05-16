@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhinav5847/Leetcode-main/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/3136-valid-word) |
