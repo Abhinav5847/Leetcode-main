@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Abhinav5847/Leetcode-main/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Abhinav5847/Leetcode-main/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/3136-valid-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Abhinav5847/Leetcode-main/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhinav5847/Leetcode-main/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/Abhinav5847/Leetcode-main/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Abhinav5847/Leetcode-main/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abhinav5847/Leetcode-main/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/Abhinav5847/Leetcode-main/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Abhinav5847/Leetcode-main/tree/master/3760-maximum-substrings-with-distinct-start) |
