@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0977-squares-of-a-sorted-array) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1859-sorting-the-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1859-sorting-the-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhinav5847/Leetcode-main/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3731-find-missing-elements](https://github.com/Abhinav5847/Leetcode-main/tree/master/3731-find-missing-elements) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Abhinav5847/Leetcode-main/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinav5847/Leetcode-main/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/Abhinav5847/Leetcode-main/tree/master/1859-sorting-the-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/2108-find-first-palindromic-string-in-the-array) |
