@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abhinav5847/Leetcode-main/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav5847/Leetcode-main/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhinav5847/Leetcode-main/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/Abhinav5847/Leetcode-main/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/Abhinav5847/Leetcode-main/tree/master/3894-traffic-signal-color) |
 ## Database
 |  |
