@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3136-valid-word](https://github.com/Abhinav5847/Leetcode-main/tree/master/3136-valid-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Abhinav5847/Leetcode-main/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3894-traffic-signal-color](https://github.com/Abhinav5847/Leetcode-main/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abhinav5847/Leetcode-main/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav5847/Leetcode-main/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhinav5847/Leetcode-main/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/Abhinav5847/Leetcode-main/tree/master/3894-traffic-signal-color) |
 ## Database
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhinav5847/Leetcode-main/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/2553-separate-the-digits-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3894-traffic-signal-color](https://github.com/Abhinav5847/Leetcode-main/tree/master/3894-traffic-signal-color) |
 ## Enumeration
 |  |
 | ------- |
