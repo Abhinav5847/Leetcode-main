@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhinav5847/Leetcode-main/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhinav5847/Leetcode-main/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhinav5847/Leetcode-main/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhinav5847/Leetcode-main/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav5847/Leetcode-main/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/0977-squares-of-a-sorted-array) |
@@ -263,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav5847/Leetcode-main/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhinav5847/Leetcode-main/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
