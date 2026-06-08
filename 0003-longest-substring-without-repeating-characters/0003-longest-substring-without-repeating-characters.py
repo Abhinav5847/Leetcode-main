@@ -8,8 +8,6 @@ class Solution(object):
         seen = set()
         max_len = 0
 
-        print(left)
-
         for right in range(len(s)):
             ch = s[right]
 
