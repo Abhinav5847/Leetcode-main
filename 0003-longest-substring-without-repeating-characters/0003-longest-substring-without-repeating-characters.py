@@ -8,6 +8,8 @@ class Solution(object):
         seen = set()
         max_len = 0
 
+        print(left)
+
         for right in range(len(s)):
             ch = s[right]
 
@@ -19,5 +21,6 @@ class Solution(object):
 
             max_len = max(max_len,right - left + 1)
 
-        return max_len        
+        return max_len  
+
         
