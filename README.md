@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Abhinav5847/Leetcode-main/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abhinav5847/Leetcode-main/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Abhinav5847/Leetcode-main/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Abhinav5847/Leetcode-main/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinav5847/Leetcode-main/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhinav5847/Leetcode-main/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Abhinav5847/Leetcode-main/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav5847/Leetcode-main/tree/master/2553-separate-the-digits-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Abhinav5847/Leetcode-main/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Abhinav5847/Leetcode-main/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3894-traffic-signal-color](https://github.com/Abhinav5847/Leetcode-main/tree/master/3894-traffic-signal-color) |
 ## Enumeration
